@@ -22,4 +22,4 @@ Os textos estão sob [Creative Commons Atribuição 4.0 (CC BY 4.0)](https://cre
 
 ## Sobre
 
-Mantido pela Equipe [Elden](https://factum.rpmdesk.site/?utm_source=github&utm_medium=readme&utm_campaign=guia-ia-juridica), um conector que liga a IA ao acervo de leis e decisões dos tribunais brasileiros, com número e link para conferência. Blog: https://factum.rpmdesk.site/blog/
+Mantido pela Equipe [Elden](https://elden.com.br/?utm_source=github&utm_medium=readme&utm_campaign=guia-ia-juridica), um conector que liga a IA ao acervo de leis e decisões dos tribunais brasileiros, com número e link para conferência. Blog: https://elden.com.br/blog/

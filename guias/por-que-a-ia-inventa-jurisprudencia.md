@@ -25,7 +25,7 @@ A diferença aparece onde a resposta depende de um número de processo ou de uma
 
 ## O que o teste do Elden de 06/09/2026 mostrou
 
-O desenho: a mesma IA, duas vezes — sozinha e com o Elden ligado —, sem internet nas duas rodadas. A correção é feita pelo gabarito da FGV e por conferência mecânica no acervo, nunca por outra IA. O modelo usado foi o Claude Sonnet 5, com seis tarefas de escritório. Os detalhes estão em [a prova](https://factum.rpmdesk.site/benchmark).
+O desenho: a mesma IA, duas vezes — sozinha e com o Elden ligado —, sem internet nas duas rodadas. A correção é feita pelo gabarito da FGV e por conferência mecânica no acervo, nunca por outra IA. O modelo usado foi o Claude Sonnet 5, com seis tarefas de escritório. Os detalhes estão em [a prova](https://elden.com.br/benchmark).
 
 Os números, atribuídos ao teste do Elden de 06/09/2026:
 
@@ -62,11 +62,11 @@ Se qualquer um dos quatro não bater, a citação não entra. Um exemplo do que 
 
 ## Como o Elden entra nisso
 
-O Elden liga o aplicativo de IA a uma base nacional de acórdãos e a uma camada de leis, súmulas e precedentes verificados, de modo que a busca do documento acontece antes da citação. No teste de 06/09/2026, foi essa ligação que separou 1 de 60 acórdãos reais de 60 de 60. A conferência final na fonte oficial continua sendo do advogado. [Conheça o Elden](https://factum.rpmdesk.site/)
+O Elden liga o aplicativo de IA a uma base nacional de acórdãos e a uma camada de leis, súmulas e precedentes verificados, de modo que a busca do documento acontece antes da citação. No teste de 06/09/2026, foi essa ligação que separou 1 de 60 acórdãos reais de 60 de 60. A conferência final na fonte oficial continua sendo do advogado. [Conheça o Elden](https://elden.com.br/)
 
 ## Fontes consultadas
 
-- A prova — teste do Elden, 06/09/2026: https://factum.rpmdesk.site/benchmark
+- A prova — teste do Elden, 06/09/2026: https://elden.com.br/benchmark
 
 ---
-Publicado também em https://factum.rpmdesk.site/blog/por-que-a-ia-inventa-jurisprudencia/
+Publicado também em https://elden.com.br/blog/por-que-a-ia-inventa-jurisprudencia/

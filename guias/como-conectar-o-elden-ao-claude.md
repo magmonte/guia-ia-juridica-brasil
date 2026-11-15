@@ -4,21 +4,21 @@
 
 ## O que você vai precisar
 
-- Uma conta no Elden, criada em https://factum.rpmdesk.site/criar-conta (grátis, sem cartão).
+- Uma conta no Elden, criada em https://elden.com.br/criar-conta (grátis, sem cartão).
 - O aplicativo do Claude, em qualquer plano, inclusive no grátis, ou o Claude Code instalado.
-- O endereço do conector: https://factum.rpmdesk.site/mcp.
+- O endereço do conector: https://elden.com.br/mcp.
 
 Vale saber o que muda depois da ligação. Segundo a página inicial do Elden, ele passa a consultar leis e decisões dos tribunais brasileiros antes de responder, em vez de chutar. Quem redige é a sua IA; o Elden dá a ela fontes e orientações de estilo. A leitura dos autos e a revisão final continuam com você.
 
-A assinatura da sua IA continua separada: o Elden é um complemento, com planos próprios, inclusive um gratuito. Para valores e para o que cada plano inclui, consulte a página de planos em https://factum.rpmdesk.site/#planos.
+A assinatura da sua IA continua separada: o Elden é um complemento, com planos próprios, inclusive um gratuito. Para valores e para o que cada plano inclui, consulte a página de planos em https://elden.com.br/#planos.
 
 ## Passo a passo
 
 Os nomes dos menus podem variar conforme a versão do aplicativo.
 
-1. Crie sua conta em https://factum.rpmdesk.site/criar-conta. É grátis e não pede cartão.
-2. No aplicativo do Claude, abra a área de conectores e adicione o endereço https://factum.rpmdesk.site/mcp. O caminho indicado no e-mail de boas-vindas do Elden é: Conectores → adicionar https://factum.rpmdesk.site/mcp → Entrar.
-3. No Claude Code, abra o terminal e rode: `claude mcp add --transport http elden https://factum.rpmdesk.site/mcp`.
+1. Crie sua conta em https://elden.com.br/criar-conta. É grátis e não pede cartão.
+2. No aplicativo do Claude, abra a área de conectores e adicione o endereço https://elden.com.br/mcp. O caminho indicado no e-mail de boas-vindas do Elden é: Conectores → adicionar https://elden.com.br/mcp → Entrar.
+3. No Claude Code, abra o terminal e rode: `claude mcp add --transport http elden https://elden.com.br/mcp`.
 4. Faça o login na tela de entrada do Elden. A entrada é feita com conta Google ou com um link enviado por e-mail. Não há senha.
 5. Autorize a ferramenta na primeira vez. O aplicativo da IA pergunta se pode usá-la. O Elden tem três ferramentas, justamente para pedir pouca permissão: duas de leitura (pesquisa jurídica e contexto) e uma de escrita (gravar). Nas duas de leitura, dá para escolher "permitir sempre" — a redação dessa opção varia conforme o aplicativo — e a pesquisa passa a rodar sem perguntar de novo. A de gravar é bom manter perguntando.
 6. Faça a primeira pergunta como falaria com um colega, citando o tribunal onde o processo corre, por exemplo: "dano moral por extravio de bagagem, processo no TJCE". Você também pode colar um número de processo ou um artigo de lei.
@@ -27,7 +27,7 @@ Os nomes dos menus podem variar conforme a versão do aplicativo.
 
 ## Se algo não funcionar
 
-- No Claude, funciona em qualquer plano, inclusive no grátis. Se a conexão não aparecer, confira o endereço https://factum.rpmdesk.site/mcp e se você está na área de conectores do aplicativo.
+- No Claude, funciona em qualquer plano, inclusive no grátis. Se a conexão não aparecer, confira o endereço https://elden.com.br/mcp e se você está na área de conectores do aplicativo.
 - No ChatGPT, por enquanto, a OpenAI só deixa ligar ferramentas de fora nas contas Business, Enterprise e Edu. Nas contas pessoais ainda não dá.
 - No Gemini também não: o recurso não chegou ao Brasil.
 - Qualquer outra IA que aceite conectores MCP pode ser usada, mas a configuração varia conforme o aplicativo e o plano.
@@ -36,7 +36,7 @@ Os nomes dos menus podem variar conforme a versão do aplicativo.
 
 ## Próximo passo
 
-Se ainda não tem conta, crie a sua e comece pelo plano gratuito para testar a conexão com o Claude. [Criar conta grátis](https://factum.rpmdesk.site/criar-conta)
+Se ainda não tem conta, crie a sua e comece pelo plano gratuito para testar a conexão com o Claude. [Criar conta grátis](https://elden.com.br/criar-conta)
 
 ---
-Publicado também em https://factum.rpmdesk.site/blog/como-conectar-o-elden-ao-claude/
+Publicado também em https://elden.com.br/blog/como-conectar-o-elden-ao-claude/

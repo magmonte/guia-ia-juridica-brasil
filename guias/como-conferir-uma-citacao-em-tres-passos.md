@@ -46,7 +46,7 @@ Um acórdão isolado pode ser bem fundamentado e ainda assim não ter a mesma fo
 
 ## Como o Elden entra nisso
 
-O Elden é um blog para quem pesquisa Direito com inteligência artificial no Brasil. Os textos descrevem o que os documentos consultados dizem, sem afirmar se uma tese está certa ou se um processo será ganho, e indicam onde conferir cada informação na origem. [Conheça o Elden](https://factum.rpmdesk.site/)
+O Elden é um blog para quem pesquisa Direito com inteligência artificial no Brasil. Os textos descrevem o que os documentos consultados dizem, sem afirmar se uma tese está certa ou se um processo será ganho, e indicam onde conferir cada informação na origem. [Conheça o Elden](https://elden.com.br/)
 
 ---
-Publicado também em https://factum.rpmdesk.site/blog/como-conferir-uma-citacao-em-tres-passos/
+Publicado também em https://elden.com.br/blog/como-conferir-uma-citacao-em-tres-passos/
