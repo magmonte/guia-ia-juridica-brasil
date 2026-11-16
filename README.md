@@ -4,10 +4,7 @@ Guias curtos e práticos para quem pesquisa jurisprudência com inteligência ar
 
 ## Guias
 
-- [Como conferir uma citação sugerida por IA](guias/como-conferir-uma-citacao-em-tres-passos.md)
-- [Por que a IA inventa jurisprudência](guias/por-que-a-ia-inventa-jurisprudencia.md)
-- [Como ligar um conector de jurisprudência ao Claude](guias/como-conectar-o-elden-ao-claude.md)
-- [Como ligar um conector de jurisprudência ao Gemini (com capturas de tela)](guias/como-conectar-o-elden-ao-gemini.md)
+
 
 ## Para quem é
 
